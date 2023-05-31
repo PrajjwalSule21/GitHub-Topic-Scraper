@@ -6,9 +6,9 @@ GitHub is a widely popular platform for hosting and collaborating on code reposi
 
 ## The GitHub Topics Scraper is implemented using Python and utilizes the following libraries:
 
-- `requests`: Used for making HTTP requests to retrieve the HTML content of web pages.
-- `BeautifulSoup`: A powerful library for parsing HTML and extracting data from it.
-- *`pandas`*: A versatile library for data manipulation and analysis, used for organizing the scraped data into a structured format.
+- **`requests`**: Used for making HTTP requests to retrieve the HTML content of web pages.
+- **`BeautifulSoup`**: A powerful library for parsing HTML and extracting data from it.
+- **`pandas`**: A versatile library for data manipulation and analysis, used for organizing the scraped data into a structured format.
 
 ### Note: The tags of the website may change, so before running this python script, check the tags once according to the website.
 
